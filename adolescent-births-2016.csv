@@ -1,0 +1,91 @@
+Characteristic,Race/ethnicity,Year,Percentage,Standard Error on Percentage,Notes
+Total,,2000,26.9,0.07,
+Total,,2001,24.5,0.06,
+Total,,2002,23.1,0.06,
+Total,,2003,22.2,0.06,
+Total,,2004,21.8,0.06,
+Total,,2005,21.1,0.06,
+Total,,2006,21.6,0.06,
+Total,,2007,21.7,0.06,
+Total,,2008,21.1,0.06,
+Total,,2009,19.6,0.06,
+Total,,2010,17.3,0.05,
+Total,,2011,15.4,0.05,
+Total,,2012,14.1,0.05,
+Total,,2013,12.3,0.04,
+Total,,2014,10.9,0.04,
+"Total - White, non-Hispanic","White, non-Hispanic",2000,15.8,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2001,14,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2002,13.1,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2003,12.4,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2004,12,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2005,11.5,0.05,
+"Total - White, non-Hispanic","White, non-Hispanic",2006,11.8,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2007,11.9,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2008,11.6,0.06,
+"Total - White, non-Hispanic","White, non-Hispanic",2009,11,0.05,
+"Total - White, non-Hispanic","White, non-Hispanic",2010,10,0.05,
+"Total - White, non-Hispanic","White, non-Hispanic",2011,9,0.05,
+"Total - White, non-Hispanic","White, non-Hispanic",2012,8.4,0.05,
+"Total - White, non-Hispanic","White, non-Hispanic",2013,7.4,0.05,
+"Total - White, non-Hispanic","White, non-Hispanic",2014,6.7,0.04,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2000,50.1,0.24,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2001,44.8,0.22,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2002,40.6,0.21,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2003,38.2,0.20,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2004,36.4,0.19,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2005,34.1,0.18,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2006,35.2,0.18,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2007,34.6,0.18,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2008,33.6,0.18,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2009,31,0.17,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2010,27.4,0.16,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2011,24.6,0.16,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2012,21.9,0.15,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2013,18.9,0.14,
+"Total - Black, non-Hispanic","Black, non-Hispanic",2014,16.6,0.13,
+Total - Hispanic,Hispanic,2000,55.5,0.25,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2001,51.9,0.24,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2002,49.3,0.23,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2003,47.6,0.22,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2004,47.3,0.21,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2005,45.8,0.20,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2006,45.1,0.20,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2007,44.4,0.19,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2008,42.2,0.18,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2009,37.3,0.17,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2010,32.3,0.16,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2011,28,0.15,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2012,25.5,0.14,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2013,22,0.13,Persons of Hispanic origin may be of any race.
+Total - Hispanic,Hispanic,2014,19.3,0.12,Persons of Hispanic origin may be of any race.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2000,34.1,0.63,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2001,30.2,0.58,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2002,28.8,0.56,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2003,27.9,0.54,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2004,26.7,0.52,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2005,26.3,0.50,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2006,25.9,0.49,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2007,26.1,0.48,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2008,25.8,0.48,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2009,23.6,0.46,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2010,20.1,0.42,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2011,18.2,0.41,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2012,17,0.39,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2013,15.9,0.38,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - American Indian/Alaska Native,American Indian/Alaska Native,2014,13.2,0.35,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2000,11.6,0.22,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2001,10.1,0.20,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2002,8.8,0.18,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2003,8.5,0.18,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2004,8.4,0.17,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2005,7.7,0.16,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2006,8.2,0.17,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2007,7.4,0.16,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2008,7,0.15,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2009,6.3,0.14,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2010,5.1,0.13,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2011,4.6,0.12,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2012,4.1,0.11,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2013,3.7,0.10,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.
+Total - Asian/Pacific Islander,Asian/Pacific Islander,2014,3.3,0.10,American Indian/Alaska Native include persons of Hispanic and non-Hispanic origin.

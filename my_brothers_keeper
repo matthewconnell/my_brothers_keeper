@@ -11,7 +11,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 122,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -40,7 +40,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 132,
+   "execution_count": 4,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -62,7 +62,7 @@
     "\n",
     "reading_scores = CSVs[7].drop(columns=\"Characteristic\").dropna()\n",
     "\n",
-    "oung_adult_living_arrangements = CSVs[8].drop(columns=\"Characteristic\").dropna()"
+    "young_adult_living_arrangements = CSVs[8].drop(columns=\"Characteristic\").dropna()"
    ]
   },
   {

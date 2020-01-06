@@ -11,7 +11,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 126,
+   "execution_count": 166,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -40,7 +40,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 127,
+   "execution_count": 167,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -67,7 +67,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 128,
+   "execution_count": 168,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -78,26 +78,17 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 129,
+   "execution_count": 193,
    "metadata": {},
    "outputs": [],
    "source": [
-    "#young_woman_births\n"
+    "# Change \"Year type to int\n",
+    "young_woman_births[\"Year\"] = young_woman_births[\"Year\"].astype(\"int64\")"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 130,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "pd.set_option('display.max_rows', 100)\n",
-    "#child_housing_problems"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 131,
+   "execution_count": 171,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -106,7 +97,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 132,
+   "execution_count": 172,
    "metadata": {},
    "outputs": [
     {
@@ -115,7 +106,7 @@
        "['Total - Hispanic', ' With severe housing problems']"
       ]
      },
-     "execution_count": 132,
+     "execution_count": 172,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -126,7 +117,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 133,
+   "execution_count": 173,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -136,7 +127,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 134,
+   "execution_count": 174,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -157,7 +148,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 135,
+   "execution_count": 175,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -168,7 +159,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 136,
+   "execution_count": 176,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -179,7 +170,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 137,
+   "execution_count": 177,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -194,7 +185,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 138,
+   "execution_count": 178,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -204,7 +195,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 140,
+   "execution_count": 179,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -214,10 +205,87 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 194,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Race/ethnicity               object\n",
+       "Age                          object\n",
+       "Year                          int64\n",
+       "Rate (per 1,000 Females)    float64\n",
+       "dtype: object"
+      ]
+     },
+     "execution_count": 194,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "young_woman_births.dtypes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 188,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#adolesent_births.join(young_woman_births, on = ['Race/ethnicity', 'Year', 'Rate (per 1,000 Females)', 'Age'], how=\"inner\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 191,
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (<ipython-input-191-3db8dfab2089>, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-191-3db8dfab2089>\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    as.int([4.5, 3.2])\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "as.int([4.5, 3.2])"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "adolesent_births['Age'].levels"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 151,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Race/ethnicity               object\n",
+       "Age                          object\n",
+       "Year                        float64\n",
+       "Rate (per 1,000 Females)    float64\n",
+       "dtype: object"
+      ]
+     },
+     "execution_count": 151,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "young_woman_births.dtypes"
+   ]
   },
   {
    "cell_type": "code",
